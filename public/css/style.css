@@ -1,10 +1,10 @@
 :root {
-  --primary: #3d5852;
-  --secondary: #86938f;
-  --tertiary: #5e877f;
-  --quatrinary: #6c6b67;
-  --light: #e3e4e3;
-  --dark: #182c23;
+  --primary: rgb(171, 63, 76);
+  --secondary: #f6f7ff;
+  --tertiary: rgb(171, 63, 76);
+  --quatrinary: rgb(171, 63, 76);
+  --light: #ffffff;
+  --dark: #000005;
   --error: rgb(228, 46, 1);
   --border-radius: 0.3rem;
 }
@@ -124,7 +124,7 @@ img {
   border-radius: var(--border-radius);
   border-style: double;
   border-width: thick;
-  background-color: #577a7c;
+  background-color: #01609f;
   color: var(--light);
 }
 
