@@ -127,6 +127,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 If you have any questions or need further assistance, please feel free to reach out.
 
-- GitHub: [Your GitHub Username](https://github.com/your-username)
-- Email: [Your Email Address]
+- GitHub: [burrielrush](https://github.com/burrielrush)
+- Email: [burrielrush@gmail.com]
 
