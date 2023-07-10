@@ -13,7 +13,7 @@ router.get('/', async (req, res) => {
     const posts = dbPostData.map((post) => post.get({ plain: true }));
 
     // Render the 'all-posts' template and pass the posts to the view
-    res.render('all-posts', { posts });
+    res.render('allPosts', { posts });
   } catch (err) {
     // Handle any errors and send a 500 status code with the error details as a JSON response
     res.status(500).json(err);
